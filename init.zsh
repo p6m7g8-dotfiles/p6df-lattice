@@ -23,5 +23,5 @@ p6df::modules::lattice::deps() {
 ######################################################################
 p6df::modules::lattice::profile::mod() {
 
-  p6_return_words 'lattice' "$"
+  p6_return_words 'lattice' '$LATTICE_API_KEY'
 }
