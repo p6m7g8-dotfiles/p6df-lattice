@@ -13,10 +13,10 @@ p6df::modules::lattice::deps() {
 ######################################################################
 #<
 #
-# Function: words lattice $LATTICE_API_KEY = p6df::modules::lattice::profile::mod()
+# Function: words lattice = p6df::modules::lattice::profile::mod()
 #
 #  Returns:
-#	words - lattice $LATTICE_API_KEY
+#	words - lattice
 #
 #  Environment:	 LATTICE_API_KEY
 #>

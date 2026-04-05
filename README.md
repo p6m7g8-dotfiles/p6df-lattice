@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-lattice/init.zsh
 
 - `p6df::modules::lattice::deps()`
-- `words lattice $LATTICE_API_KEY = p6df::modules::lattice::profile::mod()`
+- `words lattice = p6df::modules::lattice::profile::mod()`
 
 ## Hierarchy
 
